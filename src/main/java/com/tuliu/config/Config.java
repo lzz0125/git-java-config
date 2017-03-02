@@ -10,6 +10,9 @@ public class Config {
     public static void main (String[] args) {
         System.out.println ("#################3");
         System.out.println ("java config!!!!!!");
+        System.out.println ("###############");
+        System.out.println ("commit code to git");
+
     }
 
 }
